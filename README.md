@@ -1,4 +1,4 @@
-# Header
+# Welcome to the AMAZING* digtal WEBSITE!
 ## Subhader
 **Bold**
 *Italic*
@@ -19,3 +19,5 @@ print("Hello world!")
 <p align="center">
   <img src="https://bh-playz.github.io/img/Scratch">
 </p>
+
+*This website might not always be awesome and if you want a design modifcation please say it [here](https://bh-playz.github.io/cuddly-browser-pages/)
