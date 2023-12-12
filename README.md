@@ -20,4 +20,6 @@ print("Hello world!")
   <img src="https://bh-playz.github.io/img/Scratch">
 </p>
 
-*This website might not always be awesome and if you want a design modifcation please say it [here](https://bh-playz.github.io/cuddly-browser-pages/)
+<p align="center">
+  *This website might not always be awesome and if you want a design modifcation please say it [here](https://github.com/BH-Playz/bh-playz.github.io/issues) and I will probably NOT add them.
+</p>
